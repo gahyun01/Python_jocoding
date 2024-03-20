@@ -1,3 +1,5 @@
+# Description: 숫자형 자료형
+
 a = 1
 print(type(a))
 

@@ -1,3 +1,5 @@
+# Description: 문자열 자료형
+
 a = 'python'
 print(a)
 a = "python"

@@ -1,3 +1,5 @@
+# Description: 리스트 자료형
+
 a=[]
 print(a)
 
